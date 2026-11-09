@@ -1,0 +1,18 @@
+{
+  "id": "./dashboard.html",
+  "name": "Dashboard Survei Mitra UMB",
+  "short_name": "Dashboard UGE",
+  "description": "Dashboard hasil survei kepuasan mitra Universitas Muhammadiyah Bengkulu untuk Superadmin dan Admin UGE.",
+  "lang": "id",
+  "start_url": "./dashboard.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0e6b2a",
+  "categories": ["education", "business"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
